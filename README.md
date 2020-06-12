@@ -6,7 +6,7 @@ and change the direction of the light
 You can give it a ghost/glass effect
 You can scale the object
 
-files need to be hosted due to cross-origin data DOMException
+\u00A74files need to be hosted due to cross-origin data DOMException
 
 ## there are 4 objects:
 - a shelf
