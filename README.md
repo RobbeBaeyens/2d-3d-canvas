@@ -6,7 +6,7 @@ and change the direction of the light
 You can give it a ghost/glass effect
 You can scale the object
 
-there are 4 objects:
+## there are 4 objects:
 - a shelf
 - a balloon
 - a doughnut
